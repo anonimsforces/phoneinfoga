@@ -4,12 +4,11 @@
 
 The tool only accepts E164 and International formats as input.
 
-- E164: +3396360XXXX
-- International: +33 9 63 60 XX XX
-- National: 09 63 60 XX XX
-- RFC3966: tel:+33-9-63-60-XX-XX
-- Out-of-country format from US: 011 33 9 63 60 XX XX
-
+- E164: +905057651632
+- International: +90 (505) 765 16 32
+- National:0505 765 16 32
+- RFC3966: tel:+90-505-765-16-32
+- Out-of-country format from US: +90 (505) 765 16 32
 E.164 formatting for phone numbers entails the following:
 
 - A + (plus) sign
